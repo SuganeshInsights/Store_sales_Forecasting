@@ -1,5 +1,5 @@
 README - Assignment_Wb.ipynb
-# Assignment: Web-Based Data Analysis
+# Assignment:Data Analysis
 
 This repository contains a Jupyter Notebook titled `Assignment_Wb.ipynb` which focuses on data analysis techniques using Python and relevant libraries. This assignment demonstrates skills in data handling, visualization, and insights extraction.
 
